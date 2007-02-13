@@ -6,7 +6,7 @@
 %define		pdir	Exporter
 %define		pnam	Cluster
 Summary:	Extension for easy multiple module imports
-Summary(pl.UTF-8):   Rozszerzenie do łatwego importowania wielu modułów
+Summary(pl.UTF-8):	Rozszerzenie do łatwego importowania wielu modułów
 Name:		perl-%{pdir}-%{pnam}
 Version:	0.31
 Release:	0.1
