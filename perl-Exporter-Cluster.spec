@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Exporter
 %define		pnam	Cluster
 Summary:	Extension for easy multiple module imports
